@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935158405943",
+    "project_id": "fivepaisa-clone",
+    "storage_bucket": "fivepaisa-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935158405943:android:0d0309fbbaabc1871758b2",
+        "android_client_info": {
+          "package_name": "com.example.five_paisa_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz93PiDrv84OqBxBeX-1vuH6FH2Nf_8tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
